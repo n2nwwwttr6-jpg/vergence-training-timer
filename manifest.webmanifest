@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "聚散训练辅助计时器",
+  "short_name": "聚散计时器",
+  "description": "由家长操作的计时与中文语音提示工具，训练参数请遵循专业指导。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f2",
+  "theme_color": "#176b5b",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
